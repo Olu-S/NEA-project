@@ -1,0 +1,4 @@
+This is my NEA progect for my a-level computersience course. 
+I am curentlly unsure of wether it will be possible to run this in the default python IDE 
+but i know for a fact that if each of these files are put into a PYCHARM IDE that the projram should run. 
+Feel free to contact me if there are issuses.
