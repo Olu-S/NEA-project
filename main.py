@@ -190,6 +190,7 @@ class game:
                     self.quit()
 
     def draw_text(self, text, font_name, size, color, x, y, align="nw"):
+        #text creation 
         font = pg.font.Font(font_name, size)
         text_surface = font.render(text, True, color)
         text_rect = text_surface.get_rect()
